@@ -8,6 +8,10 @@
 
 - [x] 0283. [Move Zeroes](https://github.com/air790725/leetcode/blob/master/codes/0283_MoveZeroes.go)
 
+- [x] 0344. [Reverse String](https://github.com/air790725/leetcode/blob/master/codes/0344_ReverseString.go)
+
+- [x] 0557. [Reverse Words in a String III](https://github.com/air790725/leetcode/blob/master/codes/0557_ReverseWordsInAStringIII.go)
+
 - [x] 0704. [Binary Search](https://github.com/air790725/leetcode/blob/master/codes/0704_BinarySearch.go)
 
 - [x] 0977. [Squares of a Sorted Array](https://github.com/air790725/leetcode/blob/master/codes/0977_SquaresOfSortedArray.go)
