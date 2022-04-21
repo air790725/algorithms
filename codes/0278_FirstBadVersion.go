@@ -1,5 +1,7 @@
 package algorithmn
 
+func isBadVersion(version int) bool;
+
 func firstBadVersion(n int) int {
     left, right, last := 1, n, 0
     for left <= right {
