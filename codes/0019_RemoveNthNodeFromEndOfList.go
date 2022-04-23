@@ -22,14 +22,12 @@ func removeNthFromEnd(head *ListNode, n int) *ListNode {
     if left == right {
         if i == 1 {
             return nil
-        } else {
-            return head.Next
         }
+        return head.Next
     }
     if left.Next == nil {
         return right
-    } else {
-        left.Next = left.Next.Next
     }
+    left.Next = left.Next.Next
     return head
 }

@@ -1,16 +1,16 @@
 package algorithmn
 
 func lengthOfLongestSubstring(s string) int {
-    max, words, chars := 0, []byte(s), make(map[string]int)
-    for left, right := 0, 0; right < len(words); right++ {
-        char := string(words[right])
-        if _, ok := chars[char]; ok {
-            if chars[char] + 1 > left {
-                left = chars[char] + 1
+    max, chars := 0, make(map[byte]int)
+    for left, right := 0, 0; right < len(s); right++ {
+        index := s[right]
+        if _, ok := chars[index]; ok {
+            if chars[index] + 1 > left {
+                left = chars[index] + 1
             }
         }
         
-        chars[char] = right
+        chars[index] = right
         if right - left + 1 > max {
             max = right - left + 1
         }

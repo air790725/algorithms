@@ -1,19 +1,17 @@
 package algorithmn
 
 func sortedSquares(nums []int) []int {
-    left, right := 0, len(nums)-1
-    index, array := right, make([]int, right+1)
-    for index >= 0 {
+    left, right, result := 0, len(nums)-1, make([]int, len(nums))
+    for index := right; index >= 0; index-- {
         a := nums[left] * nums[left]
         b := nums[right] * nums[right]
         if a <= b {
             right--
-            array[index] = b
+            result[index] = b
         } else {
             left++
-            array[index] = a
+            result[index] = a
         }
-        index--
     }
-    return array
+    return result
 }
