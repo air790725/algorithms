@@ -4,6 +4,8 @@
 
 - [x] 0035. [Search Insert Position](https://github.com/air790725/leetcode/blob/master/codes/0035_SearchInsertPosition.go)
 
+- [x] 0116. [Populating Next Right Pointers in Each Node](https://github.com/air790725/leetcode/blob/master/codes/0116_PopulatingNextRightPointersInEachNode.go)
+
 - [x] 0167. [Two Sum II - Input Array Is Sorted](https://github.com/air790725/leetcode/blob/master/codes/0167_TwioSumII.go)
 
 - [x] 0189. [Rotate Array](https://github.com/air790725/leetcode/blob/master/codes/0189_RotateArray.go)
@@ -17,6 +19,8 @@
 - [x] 0557. [Reverse Words in a String III](https://github.com/air790725/leetcode/blob/master/codes/0557_ReverseWordsInAStringIII.go)
 
 - [x] 0567. [Permutation in String](https://github.com/air790725/leetcode/blob/master/codes/0567_PermutationInString.go)
+
+- [x] 0617. [Merge Two Binary Trees](https://github.com/air790725/leetcode/blob/master/codes/0617_MergeTwoBinaryTrees.go)
 
 - [x] 0695. [Max Area of Island](https://github.com/air790725/leetcode/blob/master/codes/0695_MaxAreaOfIsland.go)
 
