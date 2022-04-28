@@ -2,6 +2,8 @@
 
 - [x] 0019. [Remove Nth Node From End of List](https://github.com/air790725/leetcode/blob/master/codes/0019_RemoveNthNodeFromEndOfList.go)
 
+- [x] 0070. [Climbing Stairs](https://github.com/air790725/leetcode/blob/master/codes/0070_ClimbingStairs.go)
+
 - [x] 0021. [Merge Two Sorted Lists](https://github.com/air790725/leetcode/blob/master/codes/0021_MergeTwoSortedLists.go)
 
 - [x] 0035. [Search Insert Position](https://github.com/air790725/leetcode/blob/master/codes/0035_SearchInsertPosition.go)
