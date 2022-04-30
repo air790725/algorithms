@@ -10,11 +10,19 @@
 
 - [x] 0116. [Populating Next Right Pointers in Each Node](https://github.com/air790725/leetcode/blob/master/codes/0116_PopulatingNextRightPointersInEachNode.go)
 
+- [x] 0136. [Single Number](https://github.com/air790725/leetcode/blob/master/codes/0136_SingleNumber)
+
 - [x] 0167. [Two Sum II - Input Array Is Sorted](https://github.com/air790725/leetcode/blob/master/codes/0167_TwioSumII.go)
 
 - [x] 0189. [Rotate Array](https://github.com/air790725/leetcode/blob/master/codes/0189_RotateArray.go)
 
+- [x] 0190. [Reverse Bits](https://github.com/air790725/leetcode/blob/master/codes/0190_ReverseBits.go)
+
+- [x] 0191. [Number of 1 Bits](https://github.com/air790725/leetcode/blob/master/codes/0191_NumberOfOneBits.go)
+
 - [x] 0206. [Reverse Linked List](https://github.com/air790725/leetcode/blob/master/codes/0206_ReverseLinkedList.go)
+
+- [x] 0231. [Power of Two](https://github.com/air790725/leetcode/blob/master/codes/0231_PowerofTwo.go)
 
 - [x] 0278. [First Bad Version](https://github.com/air790725/leetcode/blob/master/codes/0278_FirstBadVersion.go)
 
