@@ -10,6 +10,8 @@
 
 - [x] 0116. [Populating Next Right Pointers in Each Node](https://github.com/air790725/leetcode/blob/master/codes/0116_PopulatingNextRightPointersInEachNode.go)
 
+- [x] 0120. [Triangle](https://github.com/air790725/leetcode/blob/master/codes/0120_Triangle.go)
+
 - [x] 0136. [Single Number](https://github.com/air790725/leetcode/blob/master/codes/0136_SingleNumber)
 
 - [x] 0167. [Two Sum II - Input Array Is Sorted](https://github.com/air790725/leetcode/blob/master/codes/0167_TwioSumII.go)
